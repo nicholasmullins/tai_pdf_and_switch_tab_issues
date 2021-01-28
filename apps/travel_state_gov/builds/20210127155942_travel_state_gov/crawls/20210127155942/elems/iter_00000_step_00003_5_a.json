@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Bz7oEfDFyGq8wkL88IbEdw==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "a_X396_Y393_W175_H70", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/international-travel.html", 
+                "title": "International Travel"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 221, 221)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 70, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "International Travel", 
+            "type": "", 
+            "value": "", 
+            "width": 175, 
+            "x": 396, 
+            "xPercent": 20.616861979166668, 
+            "y": 393, 
+            "yPercent": 11.021627874369042
+        }, 
+        "location": {
+            "x": 396, 
+            "y": 393
+        }, 
+        "size": {
+            "height": 70, 
+            "width": 175
+        }, 
+        "tag_name": "a", 
+        "text": "International Travel"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "International Travel", 
+    "transformed": true, 
+    "width": 175, 
+    "x": 396, 
+    "y": 393
+}

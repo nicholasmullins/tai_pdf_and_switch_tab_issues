@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pC2FRzOqJKa5KRu79QEZ+w==\n", 
+    "height": 63, 
+    "hier_level": 0, 
+    "human_hash": "div_X418_Y239_W1084_H63", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block html-block sqs-block-html", 
+                "data-block-type": "2", 
+                "id": "block-6bd54e463220bd15f086"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block html-block sqs-block-html", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 63, 
+            "identifier": "block-6bd54e463220bd15f086", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Our Leadership Team", 
+            "type": "", 
+            "value": "", 
+            "width": 1084, 
+            "x": 418, 
+            "xPercent": 21.770833333333332, 
+            "y": 239, 
+            "yPercent": 8.769495412844035
+        }, 
+        "location": {
+            "x": 418, 
+            "y": 239
+        }, 
+        "size": {
+            "height": 63, 
+            "width": 1084
+        }, 
+        "tag_name": "div", 
+        "text": "Our Leadership Team"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Our Leadership Team", 
+    "transformed": true, 
+    "width": 1084, 
+    "x": 418, 
+    "y": 239
+}

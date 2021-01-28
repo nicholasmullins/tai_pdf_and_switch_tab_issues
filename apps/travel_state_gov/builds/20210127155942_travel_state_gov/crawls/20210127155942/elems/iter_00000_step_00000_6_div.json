@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "g7Xi8tP3MkNh2SCDomR3cg==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "div_X772_Y795_W322_H20", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-mosaic-copy"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 56, 117)", 
+            "cssClass": "tsg-rwd-mosaic-copy", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-bold-webfont", 
+            "font-weight": "400", 
+            "fontSize": 17.28, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Find International Travel Information", 
+            "type": "", 
+            "value": "", 
+            "width": 322, 
+            "x": 772, 
+            "xPercent": 40.228678385416664, 
+            "y": 795, 
+            "yPercent": 48.443209500609015
+        }, 
+        "location": {
+            "x": 772, 
+            "y": 795
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 322
+        }, 
+        "tag_name": "div", 
+        "text": "Find International Travel Information"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Find International Travel Information", 
+    "transformed": true, 
+    "width": 322, 
+    "x": 772, 
+    "y": 795
+}

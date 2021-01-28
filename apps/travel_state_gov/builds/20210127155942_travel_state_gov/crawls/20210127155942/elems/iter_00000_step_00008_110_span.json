@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pri3EpafqJPtkIinNdBm4A==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X1437_Y529_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "at-icon-wrapper", 
+                "style": "line-height: 32px; height: 32px; width: 32px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon-wrapper", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Email", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1437, 
+            "xPercent": 74.84293619791667, 
+            "y": 529, 
+            "yPercent": 18.456588132635254
+        }, 
+        "location": {
+            "x": 1437, 
+            "y": 529
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "span", 
+        "text": "Email"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Email", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1437, 
+    "y": 529
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SDPcPZubCz7fEPgJ+2MBqA==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y174_W1920_H64", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-top-sitewide-resource-menu"
+            }, 
+            "background-color": "rgb(6, 40, 76)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-top-sitewide-resource-menu", 
+            "domLevel": 2, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-light-webfont", 
+            "font-weight": "400", 
+            "fontSize": 14.4, 
+            "height": 64, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Skip to main content\n \n\n     \n          \n          \n          \n    \n    \n\n\n    \n     \n            \n                Home|\n                Travel Advisories |\n                Newsroom|\n                About Us|\n                Contact Us |\n                Careers|\n                 MyTravelGov|\n                \n                       \n                         \n                         Find U.S. Embassies & Consulates\n                        \n                    \n                    \n            \n      \n    \n\n\n    \n          \n \n     \n            Travel.State.Gov\n        \n            Travel.State.Gov\n            Congressional Liaison\n            Special Issuance Agency\n            U.S. Passports \n            International Travel \n            U.S. Visas \n            Intercountry Adoption \n            International Parental Child Abduction\n            Records and Authentications\n         \n                  Popular Links\n        \n           Home\n           Travel Advisories\n            Newsroom\n             About Us\n            Contact Us\n            Careers\n            MyTravelGov\n            Find U.S. Embassies & Consulates\n       \n    \n    \n        Stay Connected\n          \n                        \n                \n                \n                \n                \n                \n                \n            \n         \n    \n\n \n            Legal Resources\n     \n      Legal Information\n         Info for U.S. Law Enforcement", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 174, 
+            "yPercent": 4.879416713404375
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 174
+        }, 
+        "size": {
+            "height": 64, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "Skip to main content\n \n\n     \n          \n          \n          \n    \n    \n\n\n    \n     \n            \n                Home|\n                Travel Advisories |\n                Newsroom|\n                About Us|\n                Contact Us |\n                Careers|\n                 MyTravelGov|\n                \n                       \n                         \n                         Find U.S. Embassies & Consulates\n                        \n                    \n                    \n            \n      \n    \n\n\n    \n          \n \n     \n            Travel.State.Gov\n        \n            Travel.State.Gov\n            Congressional Liaison\n            Special Issuance Agency\n            U.S. Passports \n            International Travel \n            U.S. Visas \n            Intercountry Adoption \n            International Parental Child Abduction\n            Records and Authentications\n         \n                  Popular Links\n        \n           Home\n           Travel Advisories\n            Newsroom\n             About Us\n            Contact Us\n            Careers\n            MyTravelGov\n            Find U.S. Embassies & Consulates\n       \n    \n    \n        Stay Connected\n          \n                        \n                \n                \n                \n                \n                \n                \n            \n         \n    \n\n \n            Legal Resources\n     \n      Legal Information\n         Info for U.S. Law Enforcement"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Skip to main content\n \n\n     \n          \n          \n          \n    \n    \n\n\n    \n     \n            \n                Home|\n                Travel Advisories |\n                Newsroom|\n                About Us|\n                Contact Us |\n                Careers|\n                 MyTravelGov|\n                \n                       \n                         \n                         Find U.S. Embassies & Consulates\n                        \n                    \n                    \n            \n      \n    \n\n\n    \n          \n \n     \n            Travel.State.Gov\n        \n            Travel.State.Gov\n            Congressional Liaison\n            Special Issuance Agency\n            U.S. Passports \n            International Travel \n            U.S. Visas \n            Intercountry Adoption \n            International Parental Child Abduction\n            Records and Authentications\n         \n                  Popular Links\n        \n           Home\n           Travel Advisories\n            Newsroom\n             About Us\n            Contact Us\n            Careers\n            MyTravelGov\n            Find U.S. Embassies & Consulates\n       \n    \n    \n        Stay Connected\n          \n                        \n                \n                \n                \n                \n                \n                \n            \n         \n    \n\n \n            Legal Resources\n     \n      Legal Information\n         Info for U.S. Law Enforcement", 
+    "transformed": true, 
+    "width": 1920, 
+    "x": 0, 
+    "y": 174
+}

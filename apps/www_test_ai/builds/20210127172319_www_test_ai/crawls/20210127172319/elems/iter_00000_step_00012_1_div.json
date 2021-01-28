@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xloDasc4TWpi7JGaSYQYmA==\n", 
+    "height": 155, 
+    "hier_level": 0, 
+    "human_hash": "div_X435_Y605_W327_H155", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "image-subtitle sqs-dynamic-text", 
+                "data-animation-override": "", 
+                "data-width-percentage": "17", 
+                "style": "font-size: 17%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "image-subtitle sqs-dynamic-text", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 155, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 435, 
+            "xPercent": 22.65625, 
+            "y": 605, 
+            "yPercent": 22.21330275229358
+        }, 
+        "location": {
+            "x": 435, 
+            "y": 605
+        }, 
+        "size": {
+            "height": 155, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.", 
+    "transformed": true, 
+    "width": 327, 
+    "x": 435, 
+    "y": 605
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Tbqmy1853tZlX1Cq7vizig==\n", 
+    "height": 508, 
+    "hier_level": 0, 
+    "human_hash": "div_X721_Y432_W478_H508", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4", 
+                "id": "yui_3_17_2_1_1611794950659_93"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 508, 
+            "identifier": "yui_3_17_2_1_1611794950659_93", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />\n          \n        \n          \n        \n\n        \n      \n        \n      \n\n    \n  \n\n\n  \n\n\nCase Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment.", 
+            "type": "", 
+            "value": "", 
+            "width": 478, 
+            "x": 721, 
+            "xPercent": 37.55126953125, 
+            "y": 432, 
+            "yPercent": 16.65602101812572
+        }, 
+        "location": {
+            "x": 721, 
+            "y": 432
+        }, 
+        "size": {
+            "height": 508, 
+            "width": 478
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />\n          \n        \n          \n        \n\n        \n      \n        \n      \n\n    \n  \n\n\n  \n\n\nCase Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />\n          \n        \n          \n        \n\n        \n      \n        \n      \n\n    \n  \n\n\n  \n\n\nCase Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment.", 
+    "transformed": true, 
+    "width": 478, 
+    "x": 721, 
+    "y": 432
+}

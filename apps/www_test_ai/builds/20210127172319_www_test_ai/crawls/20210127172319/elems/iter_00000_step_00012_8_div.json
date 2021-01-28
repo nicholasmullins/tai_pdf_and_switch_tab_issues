@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hBziiTlqUUxSBscJD1011w==\n", 
+    "height": 647, 
+    "hier_level": 0, 
+    "human_hash": "div_X1141_Y131_W361_H647", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4", 
+                "id": "yui_3_17_2_1_1611795438512_164"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 647, 
+            "identifier": "yui_3_17_2_1_1611795438512_164", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990260-YXSI2JQ8USVOAKCN8M8J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/regina.jpg\" alt=\"Regina ToHead of Operations - Regina To is the Head of Operations at&nbsp;test.ai&nbsp;where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly.\" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Regina ToHead of Operations\n              \n\n              \n                Regina To is the Head of Operations at\u00a0test.ai\u00a0where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly.", 
+            "type": "", 
+            "value": "", 
+            "width": 361, 
+            "x": 1141, 
+            "xPercent": 59.4091796875, 
+            "y": 131, 
+            "yPercent": 4.794151376146789
+        }, 
+        "location": {
+            "x": 1141, 
+            "y": 131
+        }, 
+        "size": {
+            "height": 647, 
+            "width": 361
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990260-YXSI2JQ8USVOAKCN8M8J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/regina.jpg\" alt=\"Regina ToHead of Operations - Regina To is the Head of Operations at&nbsp;test.ai&nbsp;where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly.\" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Regina ToHead of Operations\n              \n\n              \n                Regina To is the Head of Operations at\u00a0test.ai\u00a0where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990260-YXSI2JQ8USVOAKCN8M8J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/regina.jpg\" alt=\"Regina ToHead of Operations - Regina To is the Head of Operations at&nbsp;test.ai&nbsp;where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly.\" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Regina ToHead of Operations\n              \n\n              \n                Regina To is the Head of Operations at\u00a0test.ai\u00a0where she oversees daily functions involving people operations, finance, and compliance and ensures that the business runs smoothly.", 
+    "transformed": true, 
+    "width": 361, 
+    "x": 1141, 
+    "y": 131
+}

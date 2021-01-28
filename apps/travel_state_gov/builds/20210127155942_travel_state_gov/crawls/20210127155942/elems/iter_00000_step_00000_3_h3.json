@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0zY1sUgh/ljPaGcMAL+W4g==\n", 
+    "height": 57, 
+    "hier_level": 0, 
+    "human_hash": "h3_X480_Y58_W192_H57", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-eab-type-main-frame"
+            }, 
+            "background-color": "rgb(198, 23, 0)", 
+            "class": "h3", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-eab-type-main-frame", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 18.72, 
+            "height": 57, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "COVID-19 Travel\n                    January 15, 2021", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 480, 
+            "xPercent": 25, 
+            "y": 58, 
+            "yPercent": 3.5322777101096223
+        }, 
+        "location": {
+            "x": 480, 
+            "y": 58
+        }, 
+        "size": {
+            "height": 57, 
+            "width": 192
+        }, 
+        "tag_name": "h3", 
+        "text": "COVID-19 Travel\n                    January 15, 2021"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "COVID-19 Travel\n                    January 15, 2021", 
+    "transformed": true, 
+    "width": 192, 
+    "x": 480, 
+    "y": 58
+}

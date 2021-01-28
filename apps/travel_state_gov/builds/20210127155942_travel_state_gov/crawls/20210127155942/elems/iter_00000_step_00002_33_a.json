@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "l1jIZ9/qAIGhE3fFK1pfoA==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "a_X1004_Y190_W95_H19", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/traveladvisories/traveladvisories.html"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 221, 221)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-light-webfont", 
+            "font-weight": "400", 
+            "fontSize": 14.4, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Travel Advisories", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 1004, 
+            "xPercent": 52.28759765624999, 
+            "y": 190, 
+            "yPercent": 11.595044153471376
+        }, 
+        "location": {
+            "x": 1004, 
+            "y": 190
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 95
+        }, 
+        "tag_name": "a", 
+        "text": "Travel Advisories"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Travel Advisories", 
+    "transformed": true, 
+    "width": 95, 
+    "x": 1004, 
+    "y": 190
+}

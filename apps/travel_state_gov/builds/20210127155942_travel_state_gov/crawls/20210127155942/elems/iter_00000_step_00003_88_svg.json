@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Ctg2uHCXmEN4srHsbJ9cww==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "svg_X1449_Y524_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "at-svg-email-2", 
+                "class": "at-icon at-icon-email", 
+                "role": "img", 
+                "style": "fill: rgb(102, 102, 102); width: 32px; height: 32px;", 
+                "version": "1.1", 
+                "viewBox": "0 0 32 32", 
+                "xmlns": "http://www.w3.org/2000/svg", 
+                "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon at-icon-email", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "Email", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1449, 
+            "xPercent": 75.458984375, 
+            "y": 524, 
+            "yPercent": 14.68820106561974
+        }, 
+        "location": {
+            "x": 1449, 
+            "y": 524
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "svg", 
+        "text": "Email"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "Email", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1449, 
+    "y": 524
+}

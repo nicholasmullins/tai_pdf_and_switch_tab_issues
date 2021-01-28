@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Ap2dCq8BiN49BR3sZYxpuw==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X1062_Y446_W169_H35", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/passports/legal-matters.html", 
+                "onclick": "CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/legal-matters' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})", 
+                "title": "Legal Matters"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 56, 117)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Legal Matters", 
+            "type": "", 
+            "value": "", 
+            "width": 169, 
+            "x": 1062, 
+            "xPercent": 55.30029296875, 
+            "y": 446, 
+            "yPercent": 17.80987814622453
+        }, 
+        "location": {
+            "x": 1062, 
+            "y": 446
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 169
+        }, 
+        "tag_name": "a", 
+        "text": "Legal Matters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Legal Matters", 
+    "transformed": true, 
+    "width": 169, 
+    "x": 1062, 
+    "y": 446
+}

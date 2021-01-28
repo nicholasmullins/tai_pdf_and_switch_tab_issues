@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PHQwlhB2ZXbh/GbqciO6aA==\n", 
+    "height": 196, 
+    "hier_level": 0, 
+    "human_hash": "div_X1166_Y98_W235_H196", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-folder-content"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-folder-content", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 196, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms", 
+            "type": "", 
+            "value": "", 
+            "width": 235, 
+            "x": 1166, 
+            "xPercent": 60.74544270833333, 
+            "y": 98, 
+            "yPercent": 1.5282580820640348
+        }, 
+        "location": {
+            "x": 1166, 
+            "y": 98
+        }, 
+        "size": {
+            "height": 196, 
+            "width": 235
+        }, 
+        "tag_name": "div", 
+        "text": "About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms", 
+    "transformed": true, 
+    "width": 235, 
+    "x": 1166, 
+    "y": 98
+}

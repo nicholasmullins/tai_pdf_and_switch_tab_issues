@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VAFcZ5+z44sb4B6tAeE6WA==\n", 
+    "height": 572, 
+    "hier_level": 0, 
+    "human_hash": "div_X183_Y162_W1554_H572", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content-wrapper", 
+                "id": "yui_3_17_2_1_1611793404594_154", 
+                "style": "\n      \n        \n      \n    "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "content-wrapper", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 572, 
+            "identifier": "yui_3_17_2_1_1611793404594_154", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.\u00a0\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    \n\n      \n\n      \n        \n          \n        \n        \n\n        \n          \n            \n          \n            <img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+            "type": "", 
+            "value": "", 
+            "width": 1554, 
+            "x": 183, 
+            "xPercent": 9.541829427083332, 
+            "y": 162, 
+            "yPercent": 2.520545150761579
+        }, 
+        "location": {
+            "x": 183, 
+            "y": 162
+        }, 
+        "size": {
+            "height": 572, 
+            "width": 1554
+        }, 
+        "tag_name": "div", 
+        "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.\u00a0\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    \n\n      \n\n      \n        \n          \n        \n        \n\n        \n          \n            \n          \n            <img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.\u00a0\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    \n\n      \n\n      \n        \n          \n        \n        \n\n        \n          \n            \n          \n            <img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+    "transformed": true, 
+    "width": 1554, 
+    "x": 183, 
+    "y": 162
+}

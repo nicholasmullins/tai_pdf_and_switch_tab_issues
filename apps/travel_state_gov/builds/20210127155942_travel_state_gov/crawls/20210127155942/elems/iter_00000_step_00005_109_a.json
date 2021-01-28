@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7SErci5Lqdgga2TQ5A0cyw==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X894_Y712_W131_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://iafdb.travel.state.gov/", 
+                "title": "https://iafdb.travel.state.gov/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 56, 117)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "acceptance facilities", 
+            "type": "", 
+            "value": "", 
+            "width": 131, 
+            "x": 894, 
+            "xPercent": 46.547037760416664, 
+            "y": 712, 
+            "yPercent": 19.97073051037577
+        }, 
+        "location": {
+            "x": 894, 
+            "y": 712
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 131
+        }, 
+        "tag_name": "a", 
+        "text": "acceptance facilities"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "acceptance facilities", 
+    "transformed": true, 
+    "width": 131, 
+    "x": 894, 
+    "y": 712
+}

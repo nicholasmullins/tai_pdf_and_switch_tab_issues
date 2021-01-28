@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "H7Ivj9mVyoRtWlGQRKueyg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "svg_X1504_Y529_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "at-svg-facebook-3", 
+                "class": "at-icon at-icon-facebook", 
+                "role": "img", 
+                "style": "fill: rgb(102, 102, 102); width: 32px; height: 32px;", 
+                "version": "1.1", 
+                "viewBox": "0 0 32 32", 
+                "xmlns": "http://www.w3.org/2000/svg", 
+                "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon at-icon-facebook", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "Facebook", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1504, 
+            "xPercent": 78.32600911458333, 
+            "y": 529, 
+            "yPercent": 21.125898921294446
+        }, 
+        "location": {
+            "x": 1504, 
+            "y": 529
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "svg", 
+        "text": "Facebook"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "Facebook", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1504, 
+    "y": 529
+}

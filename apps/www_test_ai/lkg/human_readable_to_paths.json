@@ -1,0 +1,20 @@
+{
+    "btn_accept_cookies": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00000_16_button.png"
+    ], 
+    "lnk_datasheet_pdf": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00006_26_a.png"
+    ], 
+    "lnk_test_ai_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00012_4_a.png"
+    ], 
+    "mi_resources": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00002_38_a.png"
+    ], 
+    "mi_team": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00002_27_a.png"
+    ], 
+    "mnu_company": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/crawls/20210127172319/elems/iter_00000_step_00000_27_a.png"
+    ]
+}

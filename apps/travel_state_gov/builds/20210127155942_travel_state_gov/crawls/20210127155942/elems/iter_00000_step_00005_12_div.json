@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KfE6UcKyzlV6QBLrm3fz5Q==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "div_X1376_Y514_W534_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-single-page-socialmedia socialmedia"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "tsg-rwd-single-page-socialmedia socialmedia", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ARIAL", 
+            "font-weight": "400", 
+            "fontSize": 14.4, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AddThis Sharing ButtonsShare to PrintPrintPrintShare to EmailEmailEmailShare to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to MoreAddThisMore \n   \n\n\t\n\n var addthis_config = { ui_tabindex: 0 }", 
+            "type": "", 
+            "value": "", 
+            "width": 534, 
+            "x": 1376, 
+            "xPercent": 71.6748046875, 
+            "y": 514, 
+            "yPercent": 14.407774817722938
+        }, 
+        "location": {
+            "x": 1376, 
+            "y": 514
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 534
+        }, 
+        "tag_name": "div", 
+        "text": "AddThis Sharing ButtonsShare to PrintPrintPrintShare to EmailEmailEmailShare to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to MoreAddThisMore \n   \n\n\t\n\n var addthis_config = { ui_tabindex: 0 }"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AddThis Sharing ButtonsShare to PrintPrintPrintShare to EmailEmailEmailShare to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to MoreAddThisMore \n   \n\n\t\n\n var addthis_config = { ui_tabindex: 0 }", 
+    "transformed": true, 
+    "width": 534, 
+    "x": 1376, 
+    "y": 514
+}

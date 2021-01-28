@@ -1,0 +1,163 @@
+{
+    "Switch Tab to Test.ai Home Page": {
+        "description": "Never Switches Tab and Test is Successful", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_accept_cookies"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_company"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_team"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_test_ai_home"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Switch to Tab - Test.ai home page", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "switch_tab_test_ai_home.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "home"
+        ], 
+        "temp_id": "3af27bcf-6103-11eb-b37a-787b8ade0f4b", 
+        "title": "Switch Tab to Test.ai Home Page"
+    }, 
+    "Switch to PDF tab - Platform Data Sheet": {
+        "description": "Switches Tab to PDF and the Page Flickers and Test Fails", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_accept_cookies"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_company"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_resources"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_datasheet_pdf"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Switch Tab to Platform Data Sheet", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "switch_tab_datasheet_pdf.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "pdf"
+        ], 
+        "temp_id": "b364fe54-6100-11eb-be26-787b8ade0f4b", 
+        "title": "Switch to PDF tab - Platform Data Sheet"
+    }
+}

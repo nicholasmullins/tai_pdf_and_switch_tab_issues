@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ZA79GTbcfj81DB1nVOkB6A==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "a_X1216_Y734_W406_H31", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Fitness_v15.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: Enterprise Fitness", 
+            "type": "", 
+            "value": "", 
+            "width": 406, 
+            "x": 1216, 
+            "xPercent": 63.331705729166664, 
+            "y": 734, 
+            "yPercent": 28.29251831854994
+        }, 
+        "location": {
+            "x": 1216, 
+            "y": 734
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 406
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: Enterprise Fitness"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: Enterprise Fitness", 
+    "transformed": true, 
+    "width": 406, 
+    "x": 1216, 
+    "y": 734
+}

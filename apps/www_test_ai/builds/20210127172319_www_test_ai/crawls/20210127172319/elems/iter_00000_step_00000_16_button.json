@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rYOfvLkXN0tZmckcHN1BNg==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "button_X1853_Y901_W42_H36", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-cookie-banner-v2-accept"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sqs-cookie-banner-v2-accept", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1853, 
+            "xPercent": 96.53076171875, 
+            "y": 901, 
+            "yPercent": 14.003730183400684
+        }, 
+        "location": {
+            "x": 1853, 
+            "y": 901
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 42
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 42, 
+    "x": 1853, 
+    "y": 901
+}

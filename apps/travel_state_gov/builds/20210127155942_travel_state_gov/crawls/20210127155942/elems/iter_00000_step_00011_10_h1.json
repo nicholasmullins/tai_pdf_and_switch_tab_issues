@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0iRFN7Nu+qQM1PufszuHlA==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "h1_X336_Y704_W978_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "main_section", 
+                "id": "tsg-rwd-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(68, 68, 68)", 
+            "cssClass": "main_section", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-bold-webfont", 
+            "font-weight": "700", 
+            "fontSize": 20.8, 
+            "height": 28, 
+            "identifier": "tsg-rwd-text", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Forms for Special Situations", 
+            "type": "", 
+            "value": "", 
+            "width": 978, 
+            "x": 336, 
+            "xPercent": 17.488606770833336, 
+            "y": 704, 
+            "yPercent": 24.577879581151834
+        }, 
+        "location": {
+            "x": 336, 
+            "y": 704
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 978
+        }, 
+        "tag_name": "h1", 
+        "text": "Forms for Special Situations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Forms for Special Situations", 
+    "transformed": true, 
+    "width": 978, 
+    "x": 336, 
+    "y": 704
+}

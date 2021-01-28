@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FabBjOfypwqsuUJFKb723g==\n", 
+    "height": 316, 
+    "hier_level": 0, 
+    "human_hash": "div_X1376_Y240_W376_H316", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-sidebar-copy tsg_rwd_textbox_full "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "tsg-rwd-sidebar-copy tsg_rwd_textbox_full ", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 316, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Routine:\u00a010-12 weeks\nExpedited: 4-6 weeks*\nAgency or Center:\u00a0extremely limited number of appointments: must have international travel in the next 72 hours (3 business days)\n*If you select Expedited Service, we recommend you send your application using USPS' Priority Mail Express.\u00a0\nLearn more about the change in passport operations in response to COVID-19.", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1376, 
+            "xPercent": 71.68701171875, 
+            "y": 240, 
+            "yPercent": 8.38241710296684
+        }, 
+        "location": {
+            "x": 1376, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 316, 
+            "width": 376
+        }, 
+        "tag_name": "div", 
+        "text": "Routine:\u00a010-12 weeks\nExpedited: 4-6 weeks*\nAgency or Center:\u00a0extremely limited number of appointments: must have international travel in the next 72 hours (3 business days)\n*If you select Expedited Service, we recommend you send your application using USPS' Priority Mail Express.\u00a0\nLearn more about the change in passport operations in response to COVID-19."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Routine:\u00a010-12 weeks\nExpedited: 4-6 weeks*\nAgency or Center:\u00a0extremely limited number of appointments: must have international travel in the next 72 hours (3 business days)\n*If you select Expedited Service, we recommend you send your application using USPS' Priority Mail Express.\u00a0\nLearn more about the change in passport operations in response to COVID-19.", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 1376, 
+    "y": 240
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Pz1WhjrQqo71qCtLqJAGjA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X1605_Y524_W73_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "at-icon-wrapper at-share-btn at-svc-twitter", 
+                "role": "button", 
+                "style": "background-color: rgb(255, 255, 255); border-radius: 0px;", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon-wrapper at-share-btn at-svc-twitter", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Share to TwitterTwitterTwitter", 
+            "type": "", 
+            "value": "", 
+            "width": 73, 
+            "x": 1605, 
+            "xPercent": 83.61328125, 
+            "y": 524, 
+            "yPercent": 14.68820106561974
+        }, 
+        "location": {
+            "x": 1605, 
+            "y": 524
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 73
+        }, 
+        "tag_name": "a", 
+        "text": "Share to TwitterTwitterTwitter"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Share to TwitterTwitterTwitter", 
+    "transformed": true, 
+    "width": 73, 
+    "x": 1605, 
+    "y": 524
+}

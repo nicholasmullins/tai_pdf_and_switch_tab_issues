@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jQe6bQmvKGbNoMHO2sRIww==\n", 
+    "height": 61, 
+    "hier_level": 0, 
+    "human_hash": "h3_X67_Y584_W1198_H61", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgb(206, 217, 234)", 
+            "class": "h3", 
+            "color": "rgb(68, 68, 68)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 19.2, 
+            "height": 61, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Safely Working for You: January 2021 Update", 
+            "type": "", 
+            "value": "", 
+            "width": 1198, 
+            "x": 67, 
+            "xPercent": 3.500162760416667, 
+            "y": 584, 
+            "yPercent": 16.37075855300056
+        }, 
+        "location": {
+            "x": 67, 
+            "y": 584
+        }, 
+        "size": {
+            "height": 61, 
+            "width": 1198
+        }, 
+        "tag_name": "h3", 
+        "text": "Safely Working for You: January 2021 Update"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Safely Working for You: January 2021 Update", 
+    "transformed": true, 
+    "width": 1198, 
+    "x": 67, 
+    "y": 584
+}

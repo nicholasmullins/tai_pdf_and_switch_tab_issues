@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bivyS2/KA+yG2uUm/nTvgw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "img_X515_Y633_W150_H50", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Print PDF of Form DS-5504", 
+                "src": "/content/dam/passports/buttons/PDF_v2.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 56, 117)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 150, 
+            "x": 515, 
+            "xPercent": 26.827799479166664, 
+            "y": 633, 
+            "yPercent": 22.099694589877835
+        }, 
+        "location": {
+            "x": 515, 
+            "y": 633
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 150
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 515, 
+    "y": 633
+}

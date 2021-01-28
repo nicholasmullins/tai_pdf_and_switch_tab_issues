@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dkykM6TA7OVuaJE3yUEoAg==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X15_Y900_W1232_H38", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-cookie-banner-v2-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-cookie-banner-v2-text", 
+            "domLevel": 3, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy policy for more information,", 
+            "type": "", 
+            "value": "", 
+            "width": 1232, 
+            "x": 15, 
+            "xPercent": 0.78125, 
+            "y": 900, 
+            "yPercent": 13.988187752564501
+        }, 
+        "location": {
+            "x": 15, 
+            "y": 900
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1232
+        }, 
+        "tag_name": "div", 
+        "text": "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy policy for more information,"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy policy for more information,", 
+    "transformed": true, 
+    "width": 1232, 
+    "x": 15, 
+    "y": 900
+}

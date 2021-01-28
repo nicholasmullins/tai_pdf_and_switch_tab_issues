@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ScRD5BLOR2Wrh6UIa0DGzw==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X37_Y750_W105_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/passports/how-apply/photos.html", 
+                "onclick": "CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/how-apply/photos' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})", 
+                "title": "Passport Photos"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(51, 51, 51)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Passport Photos", 
+            "type": "", 
+            "value": "", 
+            "width": 105, 
+            "x": 37, 
+            "xPercent": 1.9230143229166667, 
+            "y": 750, 
+            "yPercent": 26.170375218150088
+        }, 
+        "location": {
+            "x": 37, 
+            "y": 750
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 105
+        }, 
+        "tag_name": "a", 
+        "text": "Passport Photos"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Passport Photos", 
+    "transformed": true, 
+    "width": 105, 
+    "x": 37, 
+    "y": 750
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EsKw2CU9l70GZa9RKoz7fw==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "a_X789_Y398_W164_H70", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/Intercountry-Adoption.html", 
+                "title": "Intercountry Adoption"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 221, 221)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 70, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Intercountry Adoption", 
+            "type": "", 
+            "value": "", 
+            "width": 164, 
+            "x": 789, 
+            "xPercent": 41.078287760416664, 
+            "y": 398, 
+            "yPercent": 24.24063641900122
+        }, 
+        "location": {
+            "x": 789, 
+            "y": 398
+        }, 
+        "size": {
+            "height": 70, 
+            "width": 164
+        }, 
+        "tag_name": "a", 
+        "text": "Intercountry Adoption"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Intercountry Adoption", 
+    "transformed": true, 
+    "width": 164, 
+    "x": 789, 
+    "y": 398
+}

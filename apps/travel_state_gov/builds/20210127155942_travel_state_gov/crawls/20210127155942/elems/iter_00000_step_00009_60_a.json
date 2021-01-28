@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KNEbL/8KLfQPIFggNV8udg==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X37_Y793_W90_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/passports/how-apply/fees.html", 
+                "onclick": "CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/how-apply/fees' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})", 
+                "title": "Passport Fees"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(51, 51, 51)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Passport Fees", 
+            "type": "", 
+            "value": "", 
+            "width": 90, 
+            "x": 37, 
+            "xPercent": 1.9230143229166667, 
+            "y": 793, 
+            "yPercent": 27.67124781849913
+        }, 
+        "location": {
+            "x": 37, 
+            "y": 793
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 90
+        }, 
+        "tag_name": "a", 
+        "text": "Passport Fees"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Passport Fees", 
+    "transformed": true, 
+    "width": 90, 
+    "x": 37, 
+    "y": 793
+}

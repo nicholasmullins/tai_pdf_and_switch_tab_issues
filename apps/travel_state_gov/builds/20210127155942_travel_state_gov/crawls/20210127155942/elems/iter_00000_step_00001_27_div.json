@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wO2ecHBEdyxFT0zhQZW69A==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X480_Y63_W192_H27", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-eab-type-frame"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-eab-type-frame", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 18.72, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "COVID-19 Travel", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 480, 
+            "xPercent": 25, 
+            "y": 63, 
+            "yPercent": 3.836784409257003
+        }, 
+        "location": {
+            "x": 480, 
+            "y": 63
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 192
+        }, 
+        "tag_name": "div", 
+        "text": "COVID-19 Travel"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "COVID-19 Travel", 
+    "transformed": true, 
+    "width": 192, 
+    "x": 480, 
+    "y": 63
+}

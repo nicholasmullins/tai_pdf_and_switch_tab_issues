@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lShIRV5XRFRuRYv4vMZ5Iw==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "a_X967_Y398_W164_H70", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/International-Parental-Child-Abduction.html", 
+                "title": "International Parental Child Abduction"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 221, 221)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 70, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "International Parental Child Abduction", 
+            "type": "", 
+            "value": "", 
+            "width": 164, 
+            "x": 967, 
+            "xPercent": 50.36132812500001, 
+            "y": 398, 
+            "yPercent": 24.24063641900122
+        }, 
+        "location": {
+            "x": 967, 
+            "y": 398
+        }, 
+        "size": {
+            "height": 70, 
+            "width": 164
+        }, 
+        "tag_name": "a", 
+        "text": "International Parental Child Abduction"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "International Parental Child Abduction", 
+    "transformed": true, 
+    "width": 164, 
+    "x": 967, 
+    "y": 398
+}

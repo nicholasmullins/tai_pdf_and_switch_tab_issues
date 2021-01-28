@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "RJiQ1Ov/WgTTNK0xAJXSiw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X1504_Y529_W90_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "at-icon-wrapper at-share-btn at-svc-facebook", 
+                "role": "button", 
+                "style": "background-color: rgb(255, 255, 255); border-radius: 0px;", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon-wrapper at-share-btn at-svc-facebook", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Share to FacebookFacebookFacebook", 
+            "type": "", 
+            "value": "", 
+            "width": 90, 
+            "x": 1504, 
+            "xPercent": 78.32600911458333, 
+            "y": 529, 
+            "yPercent": 18.456588132635254
+        }, 
+        "location": {
+            "x": 1504, 
+            "y": 529
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 90
+        }, 
+        "tag_name": "a", 
+        "text": "Share to FacebookFacebookFacebook"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Share to FacebookFacebookFacebook", 
+    "transformed": true, 
+    "width": 90, 
+    "x": 1504, 
+    "y": 529
+}

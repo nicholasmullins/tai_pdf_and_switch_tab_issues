@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00002_61_a.png": [
+            "lnk_passports"
+        ], 
+        "iter_00000_step_00005_82_a.png": [
+            "lnk_how_apply"
+        ], 
+        "iter_00000_step_00007_34_a.png": [
+            "lnk_passport_forms"
+        ], 
+        "iter_00000_step_00009_17_a.png": [
+            "lnk_how_apply"
+        ], 
+        "iter_00000_step_00012_1_img.png": [
+            "img_passport_application"
+        ]
+    }, 
+    "screens": {}
+}

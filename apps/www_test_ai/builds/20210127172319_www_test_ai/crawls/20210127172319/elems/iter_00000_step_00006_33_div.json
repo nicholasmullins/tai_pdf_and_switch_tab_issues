@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZalASzDvHQ3gKYABko5rUw==\n", 
+    "height": 250, 
+    "hier_level": 0, 
+    "human_hash": "div_X260_Y449_W444_H250", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+                "data-animation-role": "image", 
+                "id": "yui_3_17_2_1_1611794950659_62", 
+                "style": "padding-bottom: 56.2324%; overflow: hidden; transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.237736s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 250, 
+            "identifier": "yui_3_17_2_1_1611794950659_62", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609803559809-Q2RE684NDVJ7SKY87JB2/ke17ZwdGBToddI8pDm48kL0qwbLTDRrJd_bEhKNoeAcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djihha6r5y1aa91lMi63WqtNLYQV4rk8POAuTQ2M2rgrCjLISwBs8eEdxAxTptZAUg/img-datasheet.png\" alt=\"img-datasheet.png\" />", 
+            "type": "", 
+            "value": "", 
+            "width": 444, 
+            "x": 260, 
+            "xPercent": 13.541666666666666, 
+            "y": 449, 
+            "yPercent": 17.311632279213267
+        }, 
+        "location": {
+            "x": 260, 
+            "y": 449
+        }, 
+        "size": {
+            "height": 250, 
+            "width": 444
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609803559809-Q2RE684NDVJ7SKY87JB2/ke17ZwdGBToddI8pDm48kL0qwbLTDRrJd_bEhKNoeAcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djihha6r5y1aa91lMi63WqtNLYQV4rk8POAuTQ2M2rgrCjLISwBs8eEdxAxTptZAUg/img-datasheet.png\" alt=\"img-datasheet.png\" />"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609803559809-Q2RE684NDVJ7SKY87JB2/ke17ZwdGBToddI8pDm48kL0qwbLTDRrJd_bEhKNoeAcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djihha6r5y1aa91lMi63WqtNLYQV4rk8POAuTQ2M2rgrCjLISwBs8eEdxAxTptZAUg/img-datasheet.png\" alt=\"img-datasheet.png\" />", 
+    "transformed": true, 
+    "width": 444, 
+    "x": 260, 
+    "y": 449
+}

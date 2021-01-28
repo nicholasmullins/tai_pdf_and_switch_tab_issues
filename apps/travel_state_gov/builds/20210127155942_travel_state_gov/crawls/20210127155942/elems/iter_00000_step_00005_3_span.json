@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AyMT3rXog15ZBrUBq7PEEA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X1678_Y524_W32_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "at-icon-wrapper", 
+                "style": "line-height: 32px; height: 32px; width: 32px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "at-icon-wrapper", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "AddThis", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1678, 
+            "xPercent": 87.392578125, 
+            "y": 524, 
+            "yPercent": 14.68820106561974
+        }, 
+        "location": {
+            "x": 1678, 
+            "y": 524
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 32
+        }, 
+        "tag_name": "span", 
+        "text": "AddThis"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "AddThis", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1678, 
+    "y": 524
+}

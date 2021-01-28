@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Qc+4OLDNKR23+nOhFiccjA==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "a_X1145_Y398_W164_H70", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/content/travel/en/records-and-authentications.html", 
+                "title": "Records and Authentications"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 221, 221)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 70, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Records and Authentications", 
+            "type": "", 
+            "value": "", 
+            "width": 164, 
+            "x": 1145, 
+            "xPercent": 59.644368489583336, 
+            "y": 398, 
+            "yPercent": 24.24063641900122
+        }, 
+        "location": {
+            "x": 1145, 
+            "y": 398
+        }, 
+        "size": {
+            "height": 70, 
+            "width": 164
+        }, 
+        "tag_name": "a", 
+        "text": "Records and Authentications"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Records and Authentications", 
+    "transformed": true, 
+    "width": 164, 
+    "x": 1145, 
+    "y": 398
+}

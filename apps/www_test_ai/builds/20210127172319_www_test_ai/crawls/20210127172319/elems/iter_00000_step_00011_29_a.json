@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6Ift+HzCUP+0hM6JLh81+A==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X1200_Y64_W81_H35", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/industries", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0486486s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Industries", 
+            "type": "", 
+            "value": "", 
+            "width": 81, 
+            "x": 1200, 
+            "xPercent": 62.486165364583336, 
+            "y": 64, 
+            "yPercent": 2.342316513761468
+        }, 
+        "location": {
+            "x": 1200, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 81
+        }, 
+        "tag_name": "a", 
+        "text": "Industries"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Industries", 
+    "transformed": true, 
+    "width": 81, 
+    "x": 1200, 
+    "y": 64
+}

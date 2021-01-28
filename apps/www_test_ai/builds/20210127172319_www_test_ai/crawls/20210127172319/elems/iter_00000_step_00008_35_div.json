@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gp4SlaoP9wv49lyCAfEabA==\n", 
+    "height": 190, 
+    "hier_level": 0, 
+    "human_hash": "div_X738_Y733_W444_H190", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 190, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Case Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment.", 
+            "type": "", 
+            "value": "", 
+            "width": 444, 
+            "x": 738, 
+            "xPercent": 38.436686197916664, 
+            "y": 733, 
+            "yPercent": 28.24973486309294
+        }, 
+        "location": {
+            "x": 738, 
+            "y": 733
+        }, 
+        "size": {
+            "height": 190, 
+            "width": 444
+        }, 
+        "tag_name": "div", 
+        "text": "Case Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Case Study: Video GamesWe help the gaming industry\u2019s QA testers, developers, and other teams meet their goals to comprehensively test their games and reduce errors in new feature deployment.", 
+    "transformed": true, 
+    "width": 444, 
+    "x": 738, 
+    "y": 733
+}

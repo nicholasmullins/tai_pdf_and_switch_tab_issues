@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "31v95S5WUUivjGc6yDZ1Yg==\n", 
+    "height": 47, 
+    "hier_level": 0, 
+    "human_hash": "div_X77_Y58_W1569_H47", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-title-nav-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-title-nav-wrapper", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 47, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact", 
+            "type": "", 
+            "value": "", 
+            "width": 1569, 
+            "x": 77, 
+            "xPercent": 3.9998372395833335, 
+            "y": 58, 
+            "yPercent": 0.895146875971402
+        }, 
+        "location": {
+            "x": 77, 
+            "y": 58
+        }, 
+        "size": {
+            "height": 47, 
+            "width": 1569
+        }, 
+        "tag_name": "div", 
+        "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Product\n      \n        \n          \n            \n              All Products\n            \n          \n          \n        \n          \n            \n              Personal Edition\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Industries\n      \n    \n  \n  \n  \n\n\n  \n    \n      Company\n      \n        \n          \n            \n              About us\n            \n          \n          \n        \n          \n            \n              Team\n            \n          \n          \n        \n          \n            \n              News\n            \n          \n          \n        \n          \n            \n              Resources\n            \n          \n          \n        \n          \n            \n              Privacy Policy\n            \n          \n          \n        \n          \n            \n              Website Terms\n            \n          \n          \n        \n          \n            \n              Service Terms\n            \n          \n          \n        \n      \n    \n  \n  \n\n\n  \n    \n      \n        \n        Events\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Careers\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n        \n        Contact", 
+    "transformed": true, 
+    "width": 1569, 
+    "x": 77, 
+    "y": 58
+}

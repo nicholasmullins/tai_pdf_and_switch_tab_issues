@@ -1,0 +1,54 @@
+{
+    "apps": {
+        "travel.state.gov": {
+            "builds": {
+                "20210127155942_travel_state_gov": {
+                    "crawls": [
+                        "20210127155942"
+                    ], 
+                    "local_build_id": "20210127155942_travel_state_gov", 
+                    "md5_sum": "63a70f149b63987bc816d54d8fa149a0", 
+                    "original_file_name": "build_info.json", 
+                    "platform": "DESKTOP_CHROME", 
+                    "real_app_id": "travel.state.gov", 
+                    "test_runs": [
+                        "20210127161332", 
+                        "20210127165016", 
+                        "20210127171840", 
+                        "20210127163420", 
+                        "20210127171134"
+                    ]
+                }
+            }, 
+            "local_app_id": "travel_state_gov"
+        }, 
+        "www.test.ai": {
+            "builds": {
+                "20210127172319_www_test_ai": {
+                    "crawls": [
+                        "20210127172319"
+                    ], 
+                    "local_build_id": "20210127172319_www_test_ai", 
+                    "md5_sum": "9a743004bc2354096dfdd3be77386e56", 
+                    "original_file_name": "build_info.json", 
+                    "platform": "DESKTOP_CHROME", 
+                    "real_app_id": "www.test.ai", 
+                    "test_runs": [
+                        "20210127180501"
+                    ]
+                }
+            }, 
+            "local_app_id": "www_test_ai"
+        }
+    }, 
+    "builds_by_hash": {
+        "63a70f149b63987bc816d54d8fa149a0": {
+            "app_id": "travel.state.gov", 
+            "build_id": "20210127155942_travel_state_gov"
+        }, 
+        "9a743004bc2354096dfdd3be77386e56": {
+            "app_id": "www.test.ai", 
+            "build_id": "20210127172319_www_test_ai"
+        }
+    }
+}

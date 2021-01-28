@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5QXQ/AJkyJhkd/uQADC77w==\n", 
+    "height": 159, 
+    "hier_level": 0, 
+    "human_hash": "div_X1216_Y733_W444_H159", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 159, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Case Study: Enterprise FitnessTest.ai helps this fitness leader\u2019s QA testers, developers, and other teams meet their goals to release apps much faster and with higher quality.", 
+            "type": "", 
+            "value": "", 
+            "width": 444, 
+            "x": 1216, 
+            "xPercent": 63.331705729166664, 
+            "y": 733, 
+            "yPercent": 28.253952950250678
+        }, 
+        "location": {
+            "x": 1216, 
+            "y": 733
+        }, 
+        "size": {
+            "height": 159, 
+            "width": 444
+        }, 
+        "tag_name": "div", 
+        "text": "Case Study: Enterprise FitnessTest.ai helps this fitness leader\u2019s QA testers, developers, and other teams meet their goals to release apps much faster and with higher quality."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Case Study: Enterprise FitnessTest.ai helps this fitness leader\u2019s QA testers, developers, and other teams meet their goals to release apps much faster and with higher quality.", 
+    "transformed": true, 
+    "width": 444, 
+    "x": 1216, 
+    "y": 733
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3jPCrDvPSvZaJ9WJDRK3sQ==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "div_X480_Y32_W192_H25", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-eab-date-frame"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-eab-date-frame", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 14.976, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "January 15, 2021", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 480, 
+            "xPercent": 25, 
+            "y": 32, 
+            "yPercent": 0.89736399326977
+        }, 
+        "location": {
+            "x": 480, 
+            "y": 32
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 192
+        }, 
+        "tag_name": "div", 
+        "text": "January 15, 2021"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "January 15, 2021", 
+    "transformed": true, 
+    "width": 192, 
+    "x": 480, 
+    "y": 32
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "avvV2BV6NeJFb1EYq0CnSA==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "div_X142_Y310_W370_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nameplate-website-tagline"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "nameplate-website-tagline", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "U.S. DEPARTMENT of STATE \u2014 BUREAU of CONSULAR AFFAIRS", 
+            "type": "", 
+            "value": "", 
+            "width": 370, 
+            "x": 142, 
+            "xPercent": 7.376302083333333, 
+            "y": 310, 
+            "yPercent": 8.687079360628156
+        }, 
+        "location": {
+            "x": 142, 
+            "y": 310
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 370
+        }, 
+        "tag_name": "div", 
+        "text": "U.S. DEPARTMENT of STATE \u2014 BUREAU of CONSULAR AFFAIRS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "U.S. DEPARTMENT of STATE \u2014 BUREAU of CONSULAR AFFAIRS", 
+    "transformed": true, 
+    "width": 370, 
+    "x": 142, 
+    "y": 310
+}

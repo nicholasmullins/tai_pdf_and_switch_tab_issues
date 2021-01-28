@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "a_1177_639_49_25_a_fffffffffffffffffffefffe3f3f2432113801300c300000a400ffffffff0000_659c6d91010a9b43f7b10d0cf471243f": [
+            "lnk_test_ai_home"
+        ], 
+        "a_1184_133_200_26_a_fffffffffffffffffff3fff3fff0fff0fff0fff0fff0fff0ffffffffffffffff_c67d9804e69878e56cf779887829a95e": [
+            "mi_team"
+        ], 
+        "a_1184_184_200_26_a_ffffffffffffffffff9fff9fff80ff80ff80ff80ff80ff80ffffffffffffffff_3cd5cd5ad141c1dcd270ce9e6ce9e8d8": [
+            "mi_resources"
+        ], 
+        "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000400000002804ff7cffffffffffff_4ad504bf9ac33efca2af3572d5a33188": [
+            "mnu_company"
+        ], 
+        "a_260_734_367_31_a_ffffffffffffffff7593719b0048000020400040400908000800ffffffff0000_b7f1ab336c38f4d21f8e4e59ff38c16e": [
+            "lnk_datasheet_pdf"
+        ], 
+        "button_1853_901_42_36_button_00000000000000000660066003c0018003c00660066000000000000000000000_9d4568c009d203ab10e33ea9953a0264": [
+            "btn_accept_cookies"
+        ]
+    }, 
+    "screens": {}
+}

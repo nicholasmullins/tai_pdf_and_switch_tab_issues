@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "L48P4bxgYt6RGmSVC5xtqQ==\n", 
+    "height": 250, 
+    "hier_level": 0, 
+    "human_hash": "div_X738_Y449_W444_H250", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+                "data-animation-role": "image", 
+                "id": "yui_3_17_2_1_1611794950659_88", 
+                "style": "padding-bottom: 56.2246%; overflow: hidden; transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.271698s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 250, 
+            "identifier": "yui_3_17_2_1_1611794950659_88", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />", 
+            "type": "", 
+            "value": "", 
+            "width": 444, 
+            "x": 738, 
+            "xPercent": 38.436686197916664, 
+            "y": 449, 
+            "yPercent": 17.311632279213267
+        }, 
+        "location": {
+            "x": 738, 
+            "y": 449
+        }, 
+        "size": {
+            "height": 250, 
+            "width": 444
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1609802703970-HFSB3PKESYOG7L4FTF8F/ke17ZwdGBToddI8pDm48kGgagG5sQxcteMk9-qZ76IAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcy_AleUD1xLvJlcUO1zoJ0mTtYN2ZamiWJVsIIctJsLvsWshSQVqqUUT0oGd3oQ8f/img-gaming.png\" alt=\"img-gaming.png\" />", 
+    "transformed": true, 
+    "width": 444, 
+    "x": 738, 
+    "y": 449
+}

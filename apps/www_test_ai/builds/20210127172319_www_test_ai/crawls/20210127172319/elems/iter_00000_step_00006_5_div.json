@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "s0xUBJtrmwf5bng5RwGZiw==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "div_X243_Y364_W1434_H68", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block spacer-block sqs-block-spacer sized vsize-1", 
+                "data-block-type": "21", 
+                "id": "block-yui_3_17_2_1_1609802199295_41903"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block spacer-block sqs-block-spacer sized vsize-1", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 68, 
+            "identifier": "block-yui_3_17_2_1_1609802199295_41903", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1434, 
+            "x": 243, 
+            "xPercent": 12.65625, 
+            "y": 364, 
+            "yPercent": 14.03357597377555
+        }, 
+        "location": {
+            "x": 243, 
+            "y": 364
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 1434
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1434, 
+    "x": 243, 
+    "y": 364
+}

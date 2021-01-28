@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IFgIi+HWapOb9zzyLaOvDg==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "div_X1200_Y64_W81_H35", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item header-nav-item--collection"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-item header-nav-item--collection", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Industries", 
+            "type": "", 
+            "value": "", 
+            "width": 81, 
+            "x": 1200, 
+            "xPercent": 62.486165364583336, 
+            "y": 64, 
+            "yPercent": 2.461555148476668
+        }, 
+        "location": {
+            "x": 1200, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 81
+        }, 
+        "tag_name": "div", 
+        "text": "Industries"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Industries", 
+    "transformed": true, 
+    "width": 81, 
+    "x": 1200, 
+    "y": 64
+}

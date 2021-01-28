@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d35+H2mmyou/zyw7kUgnTQ==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X480_Y5_W192_H27", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-eab-type-frame"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-eab-type-frame", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 18.72, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Covid-19 Testing", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 480, 
+            "xPercent": 25, 
+            "y": 5, 
+            "yPercent": 0.3045066991473812
+        }, 
+        "location": {
+            "x": 480, 
+            "y": 5
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 192
+        }, 
+        "tag_name": "div", 
+        "text": "Covid-19 Testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Covid-19 Testing", 
+    "transformed": true, 
+    "width": 192, 
+    "x": 480, 
+    "y": 5
+}

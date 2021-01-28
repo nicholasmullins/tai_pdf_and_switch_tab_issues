@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9nqiD5RFw0LHUkRgMdlZIA==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "div_X796_Y510_W327_H71", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "image-title-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "image-title-wrapper", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Tariq KingChief Scientist", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 796, 
+            "xPercent": 41.47542317708333, 
+            "y": 510, 
+            "yPercent": 18.727064220183486
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 510
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "Tariq KingChief Scientist"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Tariq KingChief Scientist", 
+    "transformed": true, 
+    "width": 327, 
+    "x": 796, 
+    "y": 510
+}

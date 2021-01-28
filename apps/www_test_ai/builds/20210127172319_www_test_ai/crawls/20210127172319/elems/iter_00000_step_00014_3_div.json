@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AcNLdZNIVXbjCDe7eQ2kVw==\n", 
+    "height": 647, 
+    "hier_level": 0, 
+    "human_hash": "div_X418_Y131_W361_H647", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4", 
+                "id": "yui_3_17_2_1_1611795438512_127"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 647, 
+            "identifier": "yui_3_17_2_1_1611795438512_127", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990253-F9IO4JW8UTQ1EZYQM09J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/ryan.jpg\" alt=\"Ryan CastorCo-Founder &amp; Head of Delivery - Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.  \" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Ryan CastorCo-Founder & Head of Delivery\n              \n\n              \n                Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.", 
+            "type": "", 
+            "value": "", 
+            "width": 361, 
+            "x": 418, 
+            "xPercent": 21.770833333333332, 
+            "y": 131, 
+            "yPercent": 4.794151376146789
+        }, 
+        "location": {
+            "x": 418, 
+            "y": 131
+        }, 
+        "size": {
+            "height": 647, 
+            "width": 361
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990253-F9IO4JW8UTQ1EZYQM09J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/ryan.jpg\" alt=\"Ryan CastorCo-Founder &amp; Head of Delivery - Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.  \" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Ryan CastorCo-Founder & Head of Delivery\n              \n\n              \n                Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1604530990253-F9IO4JW8UTQ1EZYQM09J/ke17ZwdGBToddI8pDm48kOfSuspoP3BxigezDDwz3J1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbY00c2KRtUWJqQOVIPMDUb9OtpeFy2MljaXojpRPRYmRAzgpU9ItY1kiNOq-7CAQ/ryan.jpg\" alt=\"Ryan CastorCo-Founder &amp; Head of Delivery - Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.  \" />\n            \n            \n          \n            \n          \n\n        \n\n        \n          \n          \n            \n\n              \n                Ryan CastorCo-Founder & Head of Delivery\n              \n\n              \n                Improving software quality and user experiences in an ever changing and increasingly fast paced world by creatively melding great people with technology and process efficiency.", 
+    "transformed": true, 
+    "width": 361, 
+    "x": 418, 
+    "y": 131
+}

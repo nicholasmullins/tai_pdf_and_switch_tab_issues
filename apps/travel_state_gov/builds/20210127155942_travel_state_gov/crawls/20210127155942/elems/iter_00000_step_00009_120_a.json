@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "AcFFxFtIQFfjrSFo9UgpNQ==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "a_X367_Y795_W833_H42", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "adhocenable": "false", 
+                "href": "http://www.usembassy.gov", 
+                "title": "U.S. embassy and consulate info"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 56, 117)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "U.S. embassy or consulate", 
+            "type": "", 
+            "value": "", 
+            "width": 833, 
+            "x": 367, 
+            "xPercent": 19.103190104166668, 
+            "y": 795, 
+            "yPercent": 27.75687172774869
+        }, 
+        "location": {
+            "x": 367, 
+            "y": 795
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 833
+        }, 
+        "tag_name": "a", 
+        "text": "U.S. embassy or consulate"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "U.S. embassy or consulate", 
+    "transformed": true, 
+    "width": 833, 
+    "x": 367, 
+    "y": 795
+}

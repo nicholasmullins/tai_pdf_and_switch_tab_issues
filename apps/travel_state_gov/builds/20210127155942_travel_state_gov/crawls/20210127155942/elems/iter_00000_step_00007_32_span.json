@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+WJDsI/JpjNUwxmfm5yb5A==\n", 
+    "height": 13, 
+    "hier_level": 0, 
+    "human_hash": "span_X1631_Y538_W36_H13", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "at-label", 
+                "style": "font-size: 11.4px; line-height: 32px; height: 32px; color: rgb(102, 102, 102);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(102, 102, 102)", 
+            "cssClass": "at-label", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"helvetica neue\", helvetica, arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11.4, 
+            "height": 13, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Twitter", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1631, 
+            "xPercent": 84.92431640625, 
+            "y": 538, 
+            "yPercent": 21.485467439073112
+        }, 
+        "location": {
+            "x": 1631, 
+            "y": 538
+        }, 
+        "size": {
+            "height": 13, 
+            "width": 36
+        }, 
+        "tag_name": "span", 
+        "text": "Twitter"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Twitter", 
+    "transformed": true, 
+    "width": 36, 
+    "x": 1631, 
+    "y": 538
+}

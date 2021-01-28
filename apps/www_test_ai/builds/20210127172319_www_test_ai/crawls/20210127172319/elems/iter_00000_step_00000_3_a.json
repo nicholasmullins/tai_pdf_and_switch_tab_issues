@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7rY/yHLmG1FBn1dUUdVDbg==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "a_X1026_Y912_W82_H14", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/privacy-policy", 
+                "target": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "privacy policy", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 1026, 
+            "xPercent": 53.43912760416667, 
+            "y": 912, 
+            "yPercent": 14.174696922598695
+        }, 
+        "location": {
+            "x": 1026, 
+            "y": 912
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 82
+        }, 
+        "tag_name": "a", 
+        "text": "privacy policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "privacy policy", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 1026, 
+    "y": 912
+}

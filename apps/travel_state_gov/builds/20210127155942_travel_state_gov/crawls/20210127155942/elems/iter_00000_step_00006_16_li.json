@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DjEPQxzLqd1DGEU1LVVt7w==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "li_X714_Y441_W172_H50", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "How to Apply", 
+            "type": "", 
+            "value": 0, 
+            "width": 172, 
+            "x": 714, 
+            "xPercent": 37.18017578125, 
+            "y": 441, 
+            "yPercent": 17.610117858569716
+        }, 
+        "location": {
+            "x": 714, 
+            "y": 441
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 172
+        }, 
+        "tag_name": "li", 
+        "text": "How to Apply"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "How to Apply", 
+    "transformed": true, 
+    "width": 172, 
+    "x": 714, 
+    "y": 441
+}

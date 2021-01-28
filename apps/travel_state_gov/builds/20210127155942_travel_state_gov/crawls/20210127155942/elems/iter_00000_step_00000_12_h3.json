@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5NGBD1dp5ZgU3/1FCS48GA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "h3_X672_Y0_W701_H36", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tsg-rwd-eab-title-frame"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "tsg-rwd-eab-title-frame", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "oswald_regular", 
+            "font-weight": "400", 
+            "fontSize": 19.2, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "COVID-19 Testing Required for U.S. Entry", 
+            "type": "", 
+            "value": "", 
+            "width": 701, 
+            "x": 672, 
+            "xPercent": 35, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 672, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 701
+        }, 
+        "tag_name": "h3", 
+        "text": "COVID-19 Testing Required for U.S. Entry"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "COVID-19 Testing Required for U.S. Entry", 
+    "transformed": true, 
+    "width": 701, 
+    "x": 672, 
+    "y": 0
+}

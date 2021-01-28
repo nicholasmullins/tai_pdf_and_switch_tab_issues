@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "N9tQ4P5IjyZH3zNnJMbRPQ==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "li_X394_Y369_W179_H71", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "International Travel", 
+            "type": "", 
+            "value": 0, 
+            "width": 179, 
+            "x": 394, 
+            "xPercent": 20.5126953125, 
+            "y": 369, 
+            "yPercent": 14.733569716340392
+        }, 
+        "location": {
+            "x": 394, 
+            "y": 369
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 179
+        }, 
+        "tag_name": "li", 
+        "text": "International Travel"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "International Travel", 
+    "transformed": true, 
+    "width": 179, 
+    "x": 394, 
+    "y": 369
+}

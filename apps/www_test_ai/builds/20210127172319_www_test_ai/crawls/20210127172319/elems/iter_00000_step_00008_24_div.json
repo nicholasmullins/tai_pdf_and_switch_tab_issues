@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Fs6eiNI76wK12bfmpLffjQ==\n", 
+    "height": 75, 
+    "hier_level": 0, 
+    "human_hash": "div_X243_Y289_W1434_H75", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block html-block sqs-block-html", 
+                "data-block-type": "2", 
+                "id": "block-yui_3_17_2_1_1609802199295_43414"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block html-block sqs-block-html", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 75, 
+            "identifier": "block-yui_3_17_2_1_1609802199295_43414", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Resources", 
+            "type": "", 
+            "value": "", 
+            "width": 1434, 
+            "x": 243, 
+            "xPercent": 12.65625, 
+            "y": 289, 
+            "yPercent": 11.141173351330504
+        }, 
+        "location": {
+            "x": 243, 
+            "y": 289
+        }, 
+        "size": {
+            "height": 75, 
+            "width": 1434
+        }, 
+        "tag_name": "div", 
+        "text": "Resources"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Resources", 
+    "transformed": true, 
+    "width": 1434, 
+    "x": 243, 
+    "y": 289
+}

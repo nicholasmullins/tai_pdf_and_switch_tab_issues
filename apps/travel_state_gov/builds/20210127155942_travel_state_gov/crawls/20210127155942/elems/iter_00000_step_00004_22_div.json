@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bh0h7Wj9qc8mJdb2W03kqQ==\n", 
+    "height": 151, 
+    "hier_level": 0, 
+    "human_hash": "div_X1340_Y586_W461_H151", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "reference parbase section"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "reference parbase section", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 151, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "COVID-19 FAQs", 
+            "type": "", 
+            "value": "", 
+            "width": 461, 
+            "x": 1340, 
+            "xPercent": 69.79085286458333, 
+            "y": 586, 
+            "yPercent": 16.42684380257992
+        }, 
+        "location": {
+            "x": 1340, 
+            "y": 586
+        }, 
+        "size": {
+            "height": 151, 
+            "width": 461
+        }, 
+        "tag_name": "div", 
+        "text": "COVID-19 FAQs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "COVID-19 FAQs", 
+    "transformed": true, 
+    "width": 461, 
+    "x": 1340, 
+    "y": 586
+}

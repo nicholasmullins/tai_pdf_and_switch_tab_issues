@@ -1,0 +1,15 @@
+{
+    "img_passport_application": [
+        "/Users/bot/test_ai/apps/travel_state_gov/builds/20210127155942_travel_state_gov/crawls/20210127155942/elems/iter_00000_step_00010_1_img.png"
+    ], 
+    "lnk_how_apply": [
+        "/Users/bot/test_ai/apps/travel_state_gov/builds/20210127155942_travel_state_gov/crawls/20210127155942/elems/iter_00000_step_00003_82_a.png", 
+        "/Users/bot/test_ai/apps/travel_state_gov/builds/20210127155942_travel_state_gov/crawls/20210127155942/elems/iter_00000_step_00006_13_a.png"
+    ], 
+    "lnk_passport_forms": [
+        "/Users/bot/test_ai/apps/travel_state_gov/builds/20210127155942_travel_state_gov/crawls/20210127155942/elems/iter_00000_step_00006_34_a.png"
+    ], 
+    "lnk_passports": [
+        "/Users/bot/test_ai/apps/travel_state_gov/builds/20210127155942_travel_state_gov/crawls/20210127155942/elems/iter_00000_step_00000_61_a.png"
+    ]
+}

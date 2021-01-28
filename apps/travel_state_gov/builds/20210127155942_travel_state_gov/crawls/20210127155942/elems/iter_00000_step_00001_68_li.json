@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7ZndlW4PdJ8aU/QAJCg9Hw==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "li_X1143_Y374_W168_H71", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "robotocondensed-regular-webfont", 
+            "font-weight": "400", 
+            "fontSize": 15.2, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Records and Authentications", 
+            "type": "", 
+            "value": 0, 
+            "width": 168, 
+            "x": 1143, 
+            "xPercent": 59.54020182291667, 
+            "y": 374, 
+            "yPercent": 22.763778928136418
+        }, 
+        "location": {
+            "x": 1143, 
+            "y": 374
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 168
+        }, 
+        "tag_name": "li", 
+        "text": "Records and Authentications"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Records and Authentications", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 1143, 
+    "y": 374
+}

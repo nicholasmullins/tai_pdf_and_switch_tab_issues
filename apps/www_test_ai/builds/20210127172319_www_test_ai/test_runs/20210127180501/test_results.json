@@ -1,0 +1,1169 @@
+{
+    "20210127172319_www_test_ai": {
+        "fail": [
+            {
+                "carbon_log_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/run-73944235.log", 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501", 
+                "created": "2021-01-27 18:07:11", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 4, 
+                "curr_sub_step": 0, 
+                "description": "Switches Tab to PDF and the Page Flickers and Test Fails", 
+                "failures": {
+                    "4": {
+                        "label": "", 
+                        "note": "An error occurred executing script: switch_tab_datasheet_pdf.py"
+                    }
+                }, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:btn_accept_cookies", 
+                    "step:1sub_step:0  found:mnu_company", 
+                    "step:2sub_step:0  found:mi_resources", 
+                    "step:3sub_step:0  found:lnk_datasheet_pdf"
+                ], 
+                "note": "An error occurred executing script: switch_tab_datasheet_pdf.py", 
+                "result": "fail", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/button_X1853_Y901_W42_H36.png", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "rYOfvLkXN0tZmckcHN1BNg==\n", 
+                                "height": 36, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X1853_Y901_W42_H36", 
+                                "human_readable": "button_1853_901_42_36_button_00000000000000000660066003c0018003c00660066000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "d678c832af2fc78a379ae9c4bfd9d9d8", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-cookie-banner-v2-accept"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "button", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-cookie-banner-v2-accept", 
+                                        "domLevel": 4, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 12, 
+                                        "height": 36, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 42, 
+                                        "x": 1853, 
+                                        "xPercent": 96.53076171875, 
+                                        "y": 901, 
+                                        "yPercent": 14.003730183400684
+                                    }, 
+                                    "location": {
+                                        "x": 1853, 
+                                        "y": 901
+                                    }, 
+                                    "size": {
+                                        "height": 36, 
+                                        "width": 42
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 42, 
+                                "x": 1853, 
+                                "y": 901
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch to PDF tab - Platform Data Sheet/iter_00001_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "timing": 4.069971799850464
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/a_X1310_Y64_W74_H35.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "bCFetwfvVVWSlzL+blvoIQ==\n", 
+                                "height": 35, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1310_Y64_W74_H35", 
+                                "human_readable": "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000400000002804ff7cffffffffffff_4ad504bf9ac33efca2af3572d5a33188", 
+                                "img_hash": "b7aa24867600a8962ec7a61d15a427e1", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-title preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/company", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0247423s;", 
+                                            "tabindex": "-1"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-title preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Company", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 74, 
+                                        "x": 1310, 
+                                        "xPercent": 68.203125, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1310, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 74
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Company"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Company", 
+                                "text_hash": "4ad504bf9ac33efca2af3572d5a33188", 
+                                "transformed": true, 
+                                "width": 74, 
+                                "x": 1310, 
+                                "y": 64
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_company"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch to PDF tab - Platform Data Sheet/iter_00001_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mnu_company"
+                        ], 
+                        "timing": 1.531952142715454
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/div_X1184_Y184_W200_H26.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "YV40KXCo3Q552pfqFJSD1w==\n", 
+                                "height": 26, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1184_Y184_W200_H26", 
+                                "human_readable": "div_1184_184_200_26_div_ffffffffffffffffff9fff9fff80ff80ff80ff80ff80ff80ffffffffffffffff_3cd5cd5ad141c1dcd270ce9e6ce9e8d8", 
+                                "img_hash": "7b8fe825f95135b39b347348680a391d", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-item"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-item", 
+                                        "domLevel": 13, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "Resources", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 200, 
+                                        "x": 1184, 
+                                        "xPercent": 61.661783854166664, 
+                                        "y": 184, 
+                                        "yPercent": 2.853978862294063
+                                    }, 
+                                    "location": {
+                                        "x": 1184, 
+                                        "y": 184
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 200
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "Resources"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "Resources", 
+                                "text_hash": "3cd5cd5ad141c1dcd270ce9e6ce9e8d8", 
+                                "transformed": true, 
+                                "width": 200, 
+                                "x": 1184, 
+                                "y": 184
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mi_resources"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch to PDF tab - Platform Data Sheet/iter_00001_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "mi_resources"
+                        ], 
+                        "timing": 1.5609309673309326
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/a_X260_Y734_W367_H31.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "m2efP6pFscaq2F1dBU6jpA==\n", 
+                                "height": 31, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X260_Y734_W367_H31", 
+                                "human_readable": "a_260_734_367_31_a_ffffffffffffffff7593719b0048000020400040400908000800ffffffff0000_b7f1ab336c38f4d21f8e4e59ff38c16e", 
+                                "img_hash": "ddb55d7f305638f6ed67dc8efb0f40b7", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_DataSheet_v40-kxpz.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "Montserrat", 
+                                        "font-weight": "700", 
+                                        "fontSize": 25.6, 
+                                        "height": 31, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Test.ai Platform Data Sheet", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 367, 
+                                        "x": 260, 
+                                        "xPercent": 13.541666666666666, 
+                                        "y": 734, 
+                                        "yPercent": 28.289505399151558
+                                    }, 
+                                    "location": {
+                                        "x": 260, 
+                                        "y": 734
+                                    }, 
+                                    "size": {
+                                        "height": 31, 
+                                        "width": 367
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Test.ai Platform Data Sheet"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Test.ai Platform Data Sheet", 
+                                "text_hash": "b7f1ab336c38f4d21f8e4e59ff38c16e", 
+                                "transformed": true, 
+                                "width": 367, 
+                                "x": 260, 
+                                "y": 734
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_datasheet_pdf"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch to PDF tab - Platform Data Sheet/iter_00001_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [
+                            "lnk_datasheet_pdf"
+                        ], 
+                        "timing": 3.0740740299224854
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch to PDF tab - Platform Data Sheet/iter_00001_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [], 
+                        "timing": 1.439513921737671
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_company"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_resources"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_datasheet_pdf"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Switch Tab to Platform Data Sheet", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "switch_tab_datasheet_pdf.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "pdf"
+                ], 
+                "temp_id": "b364fe54-6100-11eb-be26-787b8ade0f4b", 
+                "title": "Switch to PDF tab - Platform Data Sheet", 
+                "use_qlearning_matrix": true
+            }
+        ], 
+        "pass": [
+            {
+                "carbon_log_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/run-73944235.log", 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501", 
+                "created": "2021-01-27 18:06:07", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 5, 
+                "curr_sub_step": 0, 
+                "description": "Never Switches Tab and Test is Successful", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:btn_accept_cookies", 
+                    "step:1sub_step:0  found:mnu_company", 
+                    "step:2sub_step:0  found:mi_team", 
+                    "step:4sub_step:0  found:lnk_test_ai_home"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/button_X1853_Y901_W42_H36.png", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "rYOfvLkXN0tZmckcHN1BNg==\n", 
+                                "height": 36, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X1853_Y901_W42_H36", 
+                                "human_readable": "button_1853_901_42_36_button_00000000000000000660066003c0018003c00660066000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "d678c832af2fc78a379ae9c4bfd9d9d8", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-cookie-banner-v2-accept"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "button", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-cookie-banner-v2-accept", 
+                                        "domLevel": 4, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 12, 
+                                        "height": 36, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 42, 
+                                        "x": 1853, 
+                                        "xPercent": 96.53076171875, 
+                                        "y": 901, 
+                                        "yPercent": 14.003730183400684
+                                    }, 
+                                    "location": {
+                                        "x": 1853, 
+                                        "y": 901
+                                    }, 
+                                    "size": {
+                                        "height": 36, 
+                                        "width": 42
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 42, 
+                                "x": 1853, 
+                                "y": 901
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "timing": 4.05747127532959
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/a_X1310_Y64_W74_H35.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "bCFetwfvVVWSlzL+blvoIQ==\n", 
+                                "height": 35, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1310_Y64_W74_H35", 
+                                "human_readable": "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000400000002804ff7cffffffffffff_4ad504bf9ac33efca2af3572d5a33188", 
+                                "img_hash": "b7aa24867600a8962ec7a61d15a427e1", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-title preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/company", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0247423s;", 
+                                            "tabindex": "-1"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-title preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Company", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 74, 
+                                        "x": 1310, 
+                                        "xPercent": 68.203125, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1310, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 74
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Company"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Company", 
+                                "text_hash": "4ad504bf9ac33efca2af3572d5a33188", 
+                                "transformed": true, 
+                                "width": 74, 
+                                "x": 1310, 
+                                "y": 64
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_company"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mnu_company"
+                        ], 
+                        "timing": 1.5757591724395752
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/div_X1184_Y133_W200_H26.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "b4njB3D4OmrCTdLPVW665Q==\n", 
+                                "height": 26, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1184_Y133_W200_H26", 
+                                "human_readable": "div_1184_133_200_26_div_fffffffffffffffffff3fff3fff0fff0fff0fff0fff0fff0ffffffffffffffff_c67d9804e69878e56cf779887829a95e", 
+                                "img_hash": "ae567121d55af82d4c40c10bce97adb1", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-item"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-item", 
+                                        "domLevel": 13, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "Team", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 200, 
+                                        "x": 1184, 
+                                        "xPercent": 61.661783854166664, 
+                                        "y": 133, 
+                                        "yPercent": 2.0613148896487408
+                                    }, 
+                                    "location": {
+                                        "x": 1184, 
+                                        "y": 133
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 200
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "Team"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "Team", 
+                                "text_hash": "c67d9804e69878e56cf779887829a95e", 
+                                "transformed": true, 
+                                "width": 200, 
+                                "x": 1184, 
+                                "y": 133
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mi_team"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "mi_team"
+                        ], 
+                        "timing": 1.7251298427581787
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 2.021738052368164
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tmpZ/a_X1177_Y639_W49_H25.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "pjUFmK32DNgljM1hDLInVw==\n", 
+                                "height": 25, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1177_Y639_W49_H25", 
+                                "human_readable": "a_1177_639_49_25_a_fffffffffffffffffffefffe3f3f2432113801300c300000a400ffffffff0000_659c6d91010a9b43f7b10d0cf471243f", 
+                                "img_hash": "4e2513f277bca42404f07643c9878569", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "http://test.ai/", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "domLevel": 21, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "test.ai", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 49, 
+                                        "x": 1177, 
+                                        "xPercent": 61.32242838541667, 
+                                        "y": 639, 
+                                        "yPercent": 23.461009174311926
+                                    }, 
+                                    "location": {
+                                        "x": 1177, 
+                                        "y": 639
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 49
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "test.ai"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "test.ai", 
+                                "text_hash": "659c6d91010a9b43f7b10d0cf471243f", 
+                                "transformed": true, 
+                                "width": 49, 
+                                "x": 1177, 
+                                "y": 639
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_test_ai_home"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            "lnk_test_ai_home"
+                        ], 
+                        "timing": 3.0535128116607666
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [], 
+                        "timing": 2.6707448959350586
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210127172319_www_test_ai/test_runs/20210127180501/tests/result_paths/Switch Tab to Test.ai Home Page/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "timing": 1.9516890048980713
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_company"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_team"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_test_ai_home"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Switch to Tab - Test.ai home page", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "switch_tab_test_ai_home.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "home"
+                ], 
+                "temp_id": "3af27bcf-6103-11eb-b37a-787b8ade0f4b", 
+                "title": "Switch Tab to Test.ai Home Page", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

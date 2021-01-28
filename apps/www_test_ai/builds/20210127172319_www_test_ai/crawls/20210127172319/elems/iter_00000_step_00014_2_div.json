@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jqPKJXooWqE0VFM4vSrNdA==\n", 
+    "height": 248, 
+    "hier_level": 0, 
+    "human_hash": "div_X796_Y605_W327_H248", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "image-subtitle sqs-dynamic-text", 
+                "data-animation-override": "", 
+                "data-width-percentage": "17", 
+                "style": "font-size: 17%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "image-subtitle sqs-dynamic-text", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 248, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Tariq King leads research and development of their core platform for AI-driven testing. Tariq has over fifteen years' experience in software engineering and testing and has formerly held positions as Head of Quality, Director of Quality Engineering, Manager of Software Engineering and Test Architect.", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 796, 
+            "xPercent": 41.47542317708333, 
+            "y": 605, 
+            "yPercent": 22.21330275229358
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 605
+        }, 
+        "size": {
+            "height": 248, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "Tariq King leads research and development of their core platform for AI-driven testing. Tariq has over fifteen years' experience in software engineering and testing and has formerly held positions as Head of Quality, Director of Quality Engineering, Manager of Software Engineering and Test Architect."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Tariq King leads research and development of their core platform for AI-driven testing. Tariq has over fifteen years' experience in software engineering and testing and has formerly held positions as Head of Quality, Director of Quality Engineering, Manager of Software Engineering and Test Architect.", 
+    "transformed": true, 
+    "width": 327, 
+    "x": 796, 
+    "y": 605
+}
