@@ -1,0 +1,11 @@
+git add --adds files to staging area for commitment 
+git add . --adds ALL untracked changes+files to staging area 
+git init --initializes empty Git repository 
+git status --status of current repository 
+git commit -m "commit message" --commit files from staging area to git project
+git merge branchname --merges branch with master 
+git branch --shows current branch 
+get checkout commit-hash --goes back to previous state of project with commit hash 
+git checkout master --goes back to latest commit 
+git checkout -b new-branch-name --creates new branch in current repository
+git push --pushes commited changes to 

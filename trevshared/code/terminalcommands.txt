@@ -1,0 +1,15 @@
+ls --list contents
+ls -a --show hidden contents 
+cd ~ --home directory 
+pwd --print working directory
+cd directory/ --change directory
+mkdir --make directory
+mkdir -p --make nested folders 
+mkdir -v --shows created directory structure
+man --displays manual 
+touch --makes file with name plus extension 
+rm --remove file 
+rmdir -remove empty directory
+rm -rf --removes directory and ALL folders and files 
+mv --move file (mv source destination)
+cp --copy file (cp source destination)
